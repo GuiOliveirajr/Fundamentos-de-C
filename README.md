@@ -6,17 +6,26 @@ Com isso a motivaçao inicial para a criação deste projeto é ajudar pessoas q
 
 Tendo isso em mente o meu foco para esse repositório é apresentar novos problemas e desafios de cada etapa de aprendizagem do C. 
 
+###Aviso 
+o projeto ainda está em suas etapas iniciais, e no momento o repositório contém apenas a resolução dos exercícios.
+
 #Índice
 
-1. [Introdução a linguagem C]()
-2. [Declaração de variáveis]()
-3. [Estrutura sequencial]()
-4. [Estrutura de Decisão]()
-5. [Estrutura de repetição]()
-6. [Desafios]()
-   - [Estrutura Sequencial]()
+1. Introdução a linguagem C
+2. Declaração de variáveis
+3. Estrutura sequencial
+4. Estrutura de Decisão
+5. Estrutura de repetição
+6. Desafios
+   - Estrutura Sequencial
+   - Estrutura de decisão
+   - Estrutura de repetição
+7. [Resoluçao dos Desafios]()
+   - [Estrutura Sequencial](Pratice/Sequencial)
    - [Estrutura de decisão]()
    - [Estrutura de repetição]()
+
+
 
 ## Autores
 Esse Guia está sendo desenvolvido por:
